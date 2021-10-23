@@ -32,11 +32,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I simply followed the YouTube tutorials given through the prework instructions. The only errors I encountered involved
+installing HAXM manually outside of Android Studio and generating a token rather than logging in through VCS. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2019 Justin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
